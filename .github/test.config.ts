@@ -32,6 +32,11 @@ export const accounts: Account[] = [
 		privateKey: '0x34aeb1f338c17e6b440c189655c89fcef148893a24a7f15c0cb666d9cf5eacb3',
 		balance: '100',
 	},
+	{
+		address: '0x1337C75FdF978ABABaACC038A1dCd580FeC28ab2',
+		privateKey: '0x6a56d57b7d8ba43929e84234c576587bbb2526a57b3e3823b0c97065767985fc',
+		balance: '100',
+	},
 ];
 export const clientUrl = 'http://localhost:8545';
 export const clientWsUrl = 'ws://localhost:8545';
